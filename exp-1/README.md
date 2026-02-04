@@ -85,13 +85,13 @@ const DisplayComponent = () => {
 ## Screenshots
 
 ### Initial State
-![Initial State](exp-1/ss_base.png)
+![Initial State](ss_base.png)
 
 ### User Input in Action
-![User Input](exp-1/ss_global_name_edit.png)
+![User Input](ss_global_name_edit.png)
 
 ### Reset State
-![Reset State](exp-1/ss_global_name_reset.png)
+![Reset State](ss_global_name_reset.png)
 
 ## Key Concepts Demonstrated
 
